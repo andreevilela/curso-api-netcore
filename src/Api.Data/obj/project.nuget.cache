@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wzNO5h08fchmNlmpPiVfJE59NKXsvBMYJsRr4tm96uD9is0ltA2XfVq5mb2i8H054TsPC1gIjJFj8K18xvdLUQ==",
+  "dgSpecHash": "aDCRuWyNhiPuBGQEG7je7oZmil+FzWJ1y3KHDOlkwFseLiI7W8OvoFUC54C6SktXw3lFzvzywjoGunC1mYJotQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre\\Documents\\curso_api_netcore\\src\\Api.Data\\Data.csproj",
+  "projectFilePath": "C:\\Users\\Andre\\Documents\\curso-api-netcore\\src\\Api.Data\\Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Andre\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Andre\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

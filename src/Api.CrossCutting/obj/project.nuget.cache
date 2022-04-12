@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6YoAmlrPUNOszaPJSs9fujyTD3F8OedcSDDVyKLsFZO/kLNlYtjZ7chm5ms6za76mZzwSNdpwxj34j7mFBxRMQ==",
+  "dgSpecHash": "x8DyW5R3k/zehMDDcAkehiSWMqvxRsRR1Q/4dms5wqBZMzG5eog5rKtNN+tzan6wMM0LViIwK5E6qsjXvz6ESg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Andre\\Documents\\curso_api_netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
+  "projectFilePath": "C:\\Users\\Andre\\Documents\\curso-api-netcore\\src\\Api.CrossCutting\\CrossCutting.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

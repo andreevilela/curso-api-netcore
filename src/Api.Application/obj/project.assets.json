@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Andre\\Documents\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectUniqueName": "C:\\Users\\Andre\\Documents\\curso-api-netcore\\src\\Api.Application\\application.csproj",
       "projectName": "application",
-      "projectPath": "C:\\Users\\Andre\\Documents\\curso_api_netcore\\src\\Api.Application\\application.csproj",
+      "projectPath": "C:\\Users\\Andre\\Documents\\curso-api-netcore\\src\\Api.Application\\application.csproj",
       "packagesPath": "C:\\Users\\Andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Andre\\Documents\\curso_api_netcore\\src\\Api.Application\\obj\\",
+      "outputPath": "C:\\Users\\Andre\\Documents\\curso-api-netcore\\src\\Api.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
