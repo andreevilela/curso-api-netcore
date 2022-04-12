@@ -15,9 +15,22 @@ namespace Api.Data.Repository
             _context = context;
             _dataset = _context.Set<T>();
         }
-        public Task<bool> DeleteAsync(Guid id)
+        public async Task<bool> DeleteAsync(Guid id)
         {
-            throw new NotImplementedException();
+            try
+            {
+                var result = await _dataset.SingleOrDefaultAsync(p => p.Id.Equals(id));
+                if (result == null) {
+                    return false;
+                }
+                _dataset.Remove(result);
+                await _context.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception e)
+            {
+                throw e;
+            }
         }
 
         public async Task<T> InsertAsync(T item)
@@ -49,7 +62,7 @@ namespace Api.Data.Repository
             throw new NotImplementedException();
         }
 
-        public async Task<T?> UpdateAsync(T item)
+        public async Task<T> UpdateAsync(T item)
         {
             try
             {
